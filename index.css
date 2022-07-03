@@ -13,3 +13,11 @@ nav{
     justify-content: space-between;
 }
 h4 {text-align: center;}
+button{
+    color: #FAFAFA;
+    padding: 9px 25px;
+    background-color: #2549D3;
+    border: none;
+    border-bottom: 25px;
+    line-height: 10px;
+}
