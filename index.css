@@ -21,3 +21,11 @@ button{
     border-bottom: 25px;
     line-height: 10px;
 }
+.title2{color: blue;}
+div{background-color: white;
+    display: flex;}
+footer{
+    background-color: #2549D3;
+}
+#Vallies Estate{ font-style: italic;
+    font-weight:bold}
